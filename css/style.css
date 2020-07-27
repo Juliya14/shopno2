@@ -1489,7 +1489,7 @@ textarea {
   .team__container,
   .brends__container,
   .footer__container {
-    max-width: 95%;
+    max-width: 97%;
   }
   .box,
   .box2,
@@ -1594,6 +1594,7 @@ textarea {
   .swiper {
     margin-top: 50px;
     margin-left: 17%;
+    width: 100%;
   }
   .swiper-pagination-bullets {
     margin-left: 100px;
@@ -1619,9 +1620,5 @@ textarea {
   }
   body {
     overflow-x: hidden;
-  }
-  .block:after,
-  .block:before {
-    display: none;
   }
 }
