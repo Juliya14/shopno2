@@ -1488,9 +1488,8 @@ textarea {
   .services__container,
   .team__container,
   .brends__container,
-  .footer__container,
-  .container {
-    max-width: 97%;
+  .footer__container {
+    max-width: 95%;
   }
   .box,
   .box2,
@@ -1620,5 +1619,9 @@ textarea {
   }
   body {
     overflow-x: hidden;
+  }
+  .block:after,
+  .block:before {
+    display: none;
   }
 }
